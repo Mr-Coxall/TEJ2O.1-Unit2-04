@@ -5,4 +5,5 @@
  * This program simulates a 6 sided dice
 */
 
-basic.showString('Hello, World!')
+basic.clearScreen()
+basic.showIcon(IconNames.Happy)
